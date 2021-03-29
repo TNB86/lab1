@@ -1,0 +1,5 @@
+﻿  SClient.cpp
+d:\bogdan\документы богдана\дз\лабы\2_2\lab1\client\client\sclient.cpp(16): warning C4101: recv_data: неиспользованная локальная переменная
+d:\bogdan\документы богдана\дз\лабы\2_2\lab1\client\client\sclient.cpp(19): warning C4101: recv_size: неиспользованная локальная переменная
+d:\bogdan\документы богдана\дз\лабы\2_2\lab1\client\client\sclient.cpp(18): warning C4101: server_reply: неиспользованная локальная переменная
+  client.vcxproj -> D:\Bogdan\документы Богдана\ДЗ\Лабы\2_2\lab1\client\Debug\client.exe
